@@ -17,7 +17,8 @@
 * 
 * 
 ## relevant ads
-### DAA
+### DAA(Ad Choices)
+* https://developers.google.com/ad-manager/pal/android/wta
 * https://youradchoices.com/learn
 * https://digitaladvertisingalliance.org/sites/aboutads/files/DAA_files/Connected_Devices_Best_Practices.pdf
 * https://digitaladvertisingalliance.org/sites/aboutads/files/DAA_files/AMI_Principles_Booklet.pdf
