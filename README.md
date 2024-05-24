@@ -1,5 +1,8 @@
 # ad-tech-101
 
+## first recommend articles
+* https://adtechbook.clearcode.cc/introduction/
+* 
 ## landscape
 * https://www.mezzomedia.co.kr/data/insight_m_file/insight_m_file_1097.pdf
 
