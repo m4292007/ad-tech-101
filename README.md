@@ -3,6 +3,8 @@
 ## first recommend articles
 * https://adtechbook.clearcode.cc/introduction/
 * 
+
+
 ## landscape
 * https://www.mezzomedia.co.kr/data/insight_m_file/insight_m_file_1097.pdf
 
@@ -16,9 +18,8 @@
 ## privacy
 ### apple
 * https://support.apple.com/ko-kr/102602
-
-* 
-* 
+* https://www.pangleglobal.com/resource/skadnetwork-mobile-advertising
+ 
 ## relevant ads
 ### DAA(Ad Choices)
 * https://developers.google.com/ad-manager/pal/android/wta
