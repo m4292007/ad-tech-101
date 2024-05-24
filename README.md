@@ -19,7 +19,20 @@
 ### apple
 * https://support.apple.com/ko-kr/102602
 * https://www.pangleglobal.com/resource/skadnetwork-mobile-advertising
- 
+
+
+## ad server
+* https://revive-adserver.atlassian.net/wiki/spaces/DOCS/overview
+
+
+## openRTB
+### ssp
+### dsp
+### ad exchange
+### dmp
+### cdp
+
+
 ## relevant ads
 ### DAA(Ad Choices)
 * https://developers.google.com/ad-manager/pal/android/wta
