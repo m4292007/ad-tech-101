@@ -2,7 +2,11 @@
 
 ## first recommend articles
 * https://adtechbook.clearcode.cc/introduction/
-* 
+
+## Programmatic Disintermediation
+* https://adtechexplained.com/programmatic-disintermediation-clearline-openpath-and-the-premium-marketplace/
+* https://docs.prebid.org/dev-docs/bidders/ttd.html#disclosure
+
 ## landscape
 * https://www.mezzomedia.co.kr/data/insight_m_file/insight_m_file_1097.pdf
 
@@ -16,9 +20,21 @@
 ## privacy
 ### apple
 * https://support.apple.com/ko-kr/102602
+* https://www.pangleglobal.com/resource/skadnetwork-mobile-advertising
 
-* 
-* 
+
+## ad server
+* https://revive-adserver.atlassian.net/wiki/spaces/DOCS/overview
+
+
+## openRTB
+### ssp
+### dsp
+### ad exchange
+### dmp
+### cdp
+
+
 ## relevant ads
 ### DAA(Ad Choices)
 * https://developers.google.com/ad-manager/pal/android/wta
