@@ -3,6 +3,10 @@
 ## first recommend articles
 * https://adtechbook.clearcode.cc/introduction/
 
+## general information
+* https://spideraf.com/media/articles/ad-technology-for-beginners-explained
+
+* 
 ## Programmatic Disintermediation
 * https://adtechexplained.com/programmatic-disintermediation-clearline-openpath-and-the-premium-marketplace/
 * https://docs.prebid.org/dev-docs/bidders/ttd.html#disclosure
