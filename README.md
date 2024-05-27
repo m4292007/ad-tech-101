@@ -2,8 +2,10 @@
 
 ## first recommend articles
 * https://adtechbook.clearcode.cc/introduction/
-* 
 
+## Programmatic Disintermediation
+* https://adtechexplained.com/programmatic-disintermediation-clearline-openpath-and-the-premium-marketplace/
+* https://docs.prebid.org/dev-docs/bidders/ttd.html#disclosure
 
 ## landscape
 * https://www.mezzomedia.co.kr/data/insight_m_file/insight_m_file_1097.pdf
