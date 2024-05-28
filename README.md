@@ -1,5 +1,8 @@
 # ad-tech-101
 
+## adtech's term
+* [ad-call](https://theonlineadvertisingguide.com/glossary/ad-call/)
+
 ## first recommend articles
 * https://adtechbook.clearcode.cc/introduction/
 
