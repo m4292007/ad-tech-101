@@ -1,11 +1,27 @@
 # ad-tech-101
 
+## media map
+* [MEDIA UNIVERSE MAPS 2020-2024](https://eshap.substack.com/p/media-universe-maps-2020-2024)
+
+## adtech's term
+* [ad-call](https://theonlineadvertisingguide.com/glossary/ad-call/)
+
 ## first recommend articles
 * https://adtechbook.clearcode.cc/introduction/
 
+## general information
+* https://spideraf.com/media/articles/ad-technology-for-beginners-explained
+
+* 
 ## Programmatic Disintermediation
 * https://adtechexplained.com/programmatic-disintermediation-clearline-openpath-and-the-premium-marketplace/
 * https://docs.prebid.org/dev-docs/bidders/ttd.html#disclosure
+
+## creatives
+### display banner(DA)
+* https://brunch.co.kr/@e7c15b62bf754f4/4?utm_source=oneoneone
+
+### Videos
 
 ## landscape
 * https://www.mezzomedia.co.kr/data/insight_m_file/insight_m_file_1097.pdf
