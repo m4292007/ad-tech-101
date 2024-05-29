@@ -1,5 +1,8 @@
 # ad-tech-101
 
+## media map
+* [MEDIA UNIVERSE MAPS 2020-2024](https://eshap.substack.com/p/media-universe-maps-2020-2024)
+
 ## adtech's term
 * [ad-call](https://theonlineadvertisingguide.com/glossary/ad-call/)
 
