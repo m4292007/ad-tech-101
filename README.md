@@ -1,5 +1,13 @@
 # ad-tech-101
 
+## header bidding
+* https://headerbidding.co/
+
+  
+## open bidding
+
+## mediation(waterfall)
+
 ## media map
 * [MEDIA UNIVERSE MAPS 2020-2024](https://eshap.substack.com/p/media-universe-maps-2020-2024)
 
