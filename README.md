@@ -1,5 +1,9 @@
 # ad-tech-101
 
+## RPM vs CPM
+* https://support.google.com/youtube/answer/9314357
+
+  
 ## IAB / IAB Techlab / IAB Techlab Europe
 * https://iabeurope.eu/wp-content/uploads/2022/02/IAB-Europe-Guide-to-In-app-advertising.pptx.pdf
 
