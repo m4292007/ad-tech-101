@@ -56,7 +56,10 @@
 ### apple
 * https://support.apple.com/ko-kr/102602
 * https://www.pangleglobal.com/resource/skadnetwork-mobile-advertising
+### Google
+* https://github.com/google/ads-privacy
 
+* 
 
 ## ad server
 * https://revive-adserver.atlassian.net/wiki/spaces/DOCS/overview
