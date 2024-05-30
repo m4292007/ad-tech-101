@@ -60,6 +60,10 @@
 
 
 ## privacy
+### GPP
+* https://www.uniconsent.com/gpp-decoder
+
+  
 ### apple
 * https://support.apple.com/ko-kr/102602
 * https://www.pangleglobal.com/resource/skadnetwork-mobile-advertising
