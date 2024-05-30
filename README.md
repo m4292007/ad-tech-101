@@ -1,5 +1,8 @@
 # ad-tech-101
+## Google Chrome's 3rd party cookies phase out delayed
+* https://mediashotz.co.uk/google-cookie-cutting-programme-delayed-again-industry-reactions/
 
+* 
 ## RPM vs CPM
 * https://support.google.com/youtube/answer/9314357
 
