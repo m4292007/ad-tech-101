@@ -1,5 +1,8 @@
 # ad-tech-101
+## Google Chrome's 3rd party cookies phase out delayed
+* https://mediashotz.co.uk/google-cookie-cutting-programme-delayed-again-industry-reactions/
 
+* 
 ## RPM vs CPM
 * https://support.google.com/youtube/answer/9314357
 
@@ -53,7 +56,10 @@
 ### apple
 * https://support.apple.com/ko-kr/102602
 * https://www.pangleglobal.com/resource/skadnetwork-mobile-advertising
+### Google
+* https://github.com/google/ads-privacy
 
+* 
 
 ## ad server
 * https://revive-adserver.atlassian.net/wiki/spaces/DOCS/overview
