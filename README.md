@@ -60,13 +60,20 @@
 
 
 ## privacy
+
+
 ### GPP
 * https://www.uniconsent.com/gpp-decoder
+
+### Machine Learning with privacy consideration
+* [Privacy-Preserving Machine Learning: Methods, Challenges and Directions](https://arxiv.org/pdf/2108.04417)
 
   
 ### apple
 * https://support.apple.com/ko-kr/102602
 * https://www.pangleglobal.com/resource/skadnetwork-mobile-advertising
+
+
 ### Google
 * https://github.com/google/ads-privacy
 
