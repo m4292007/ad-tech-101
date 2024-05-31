@@ -1,7 +1,18 @@
 # ad-tech-101
 
+## retail media advertising
+### definition
+* https://www.kevel.com/blog/retail-media-programmatic
+
+* 
 ## Cookies
+
+
 ### 3rd party cookies phase out
+
+
+
+
 ### SDA(Seller defined audience)
 * https://www.thedrum.com/opinion/2023/05/08/seller-defined-audiences-ai-the-trends-shaping-publishers-post-cookie-world
 
