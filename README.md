@@ -66,6 +66,13 @@
 
 
 ## openRTB
+* https://wnzhang.net/slides/ecir16-rtb.pdf
+
+
+
+### data store
+* https://pages.aerospike.com/rs/229-XUE-318/images/Aerospike_Solution_Brief__Powering-Ad-Tech-Transformation.pdf
+* 
 ### ssp
 ### dsp
 ### ad exchange
