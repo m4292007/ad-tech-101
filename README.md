@@ -1,4 +1,11 @@
 # ad-tech-101
+
+## Cookies
+### 3rd party cookies phase out
+### SDA(Seller defined audience)
+* https://www.thedrum.com/opinion/2023/05/08/seller-defined-audiences-ai-the-trends-shaping-publishers-post-cookie-world
+
+  
 ## Google Chrome's 3rd party cookies phase out delayed
 * https://mediashotz.co.uk/google-cookie-cutting-programme-delayed-again-industry-reactions/
 
@@ -53,6 +60,10 @@
 
 
 ## privacy
+### GPP
+* https://www.uniconsent.com/gpp-decoder
+
+  
 ### apple
 * https://support.apple.com/ko-kr/102602
 * https://www.pangleglobal.com/resource/skadnetwork-mobile-advertising
