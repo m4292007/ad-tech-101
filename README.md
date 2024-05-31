@@ -2,9 +2,10 @@
 
 ## retail media advertising
 ### definition
-* https://www.kevel.com/blog/retail-media-programmatic
+* https://www.kevel.com/blog/retail-media-programmatic  
+* [IAB Europe's 101 guide to retail media](https://iabeurope.eu/wp-content/uploads/2023/09/IAB-Europes-Retail-Media-101-Guide-FINAL.pdf)
 
-* 
+  
 ## Cookies
 
 
