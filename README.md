@@ -1,5 +1,9 @@
 # ad-tech-101
 
+## news
+* https://www.relevant-digital.com/news
+
+* 
 ## retail media advertising
 ### definition
 * https://www.kevel.com/blog/retail-media-programmatic  
