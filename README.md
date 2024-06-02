@@ -1,5 +1,11 @@
 # ad-tech-101
 
+## header bidding
+### prebid
+#### Prebid Mobile 3.0.0.0
+* https://docs.prebid.org/prebid-mobile/docs/Prebid_Mobile_3_0_0.pdf
+
+* 
 ## news
 * https://www.relevant-digital.com/news
 
