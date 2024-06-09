@@ -1,5 +1,9 @@
 # ad-tech-101
 
+## brand safety
+* https://blog.rtbhouse.com/your-ultimate-guide-to-brand-safety/
+
+  
 ## news
 * https://www.relevant-digital.com/news
 
