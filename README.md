@@ -115,7 +115,14 @@
 ### dsp
 ### ad exchange
 ### dmp
-### cdp
+1. collect data
+2. data cleasing
+3. audience segmentation
+4. onboarding to DSPs
+5. Analyse and reporting
+
+   
+ 
 
 
 ## relevant ads
