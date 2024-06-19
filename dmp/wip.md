@@ -1,5 +1,8 @@
-# rudderstack 살펴보기
+# rudderstack 살펴보고 직접 업무에 이용해 보자.
 
+- 6.19.2024
+ audience profiling
+  
 ## rudderstack 을 로컬 시스템에 구성
   **
 ## saas 환경에서 rudderstack, snowflake 에 안드로이드, ios, javascript sdk 추가 테스트
