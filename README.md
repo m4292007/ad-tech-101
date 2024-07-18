@@ -1,5 +1,10 @@
 # ad-tech-101
 
+## openRTB integration guides
+* https://developer.digitalturbine.com/hc/en-us
+
+  
+
 ## brand safety
 * https://blog.rtbhouse.com/your-ultimate-guide-to-brand-safety/
 
