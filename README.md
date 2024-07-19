@@ -1,5 +1,9 @@
 # ad-tech-101
 
+## DMP(Data Management Platform)
+
+## CDP(Customer Data Platform)
+
 ## openRTB integration guides
 * https://developer.digitalturbine.com/hc/en-us
 
